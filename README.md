@@ -22,7 +22,7 @@
 ---  
 
 <div align="center">  
-  <img src="https://www.celemony.com/media/image/melodyne-studio-5.jpg" width="1080" alt="Melodyne Screenshot"/>  
+  <img src="https://insmac.org/uploads/posts/2020-05/1590660200_melodyne_01.jpg" width="1080" alt="Melodyne Screenshot"/>  
 </div>  
 
 <br>  
